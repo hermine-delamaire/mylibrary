@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-09-20)
+
+### Breaking
+
+* feat: i broke the codee
+
+BREAKING CHANGE: mylibrary.py doesnt work ([`3dead8b`](https://github.com/hermine-delamaire/mylibrary/commit/3dead8b9f8c32d809ca706426396a81c87e1c14a))
+
 ## v0.0.0 (2024-09-20)
 
 ### Unknown

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mylibrary"
-version = "0.0.0"
+version = "1.0.0"
 description = "Example of how to use templates in cookiecutter."
 authors = ["Hermine Delamaire"]
 license = "MIT"
